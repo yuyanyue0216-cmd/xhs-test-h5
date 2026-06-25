@@ -6,8 +6,8 @@
   "captionTitle": "接 offer 还是再等等？先做这 5 题",
   "title": "接 offer 还是再等等？",
   "coverLines": [
-    "这个 offer",
-    "你该接吗？"
+    "接 offer",
+    "还是再等等？"
   ],
   "options": [
     "想立刻接，因为终于可以离开现在的状态",
@@ -140,5 +140,23 @@
     "性格测试",
     "趣味测试"
   ],
+  "coverScene": {
+    "type": "offerDecision",
+    "leftLabel": "马上接下",
+    "rightLabel": "再等等",
+    "topLeft": "offer 决策题",
+    "topRight": "先别急着答复",
+    "footer": "先做 5 道题，看你真实卡在哪",
+    "leftItems": [
+      "薪资基本过线",
+      "终于能离开现状",
+      "想尽快进入新节奏"
+    ],
+    "rightItems": [
+      "市场价还没确认",
+      "试用期没谈清楚",
+      "还有机会在路上"
+    ]
+  },
   "link": "https://yuyanyue0216-cmd.github.io/xhs-test-h5/test-offer-wait/"
 }
